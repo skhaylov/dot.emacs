@@ -1,0 +1,4 @@
+* TODO [0%] [0/3]
+  - [ ] Check and install emacs packages on emacs init
+  - [ ] Move personal settings to external file (lpg-init for example)
+  - [ ] Load emacs in daemon mode if not

@@ -1,0 +1,9 @@
+*.py[cod]
+*.elc
+*.el~
+ido.last
+recentf
+session.*
+.python-environments/
+ac-comphist.dat
+bookmarks
